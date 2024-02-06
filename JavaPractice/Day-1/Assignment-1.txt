@@ -1,0 +1,37 @@
+1. Explain the core principles of Object-Oriented Programming and how they are implemented in Java.
+
+2. Differentiate between procedural programming and object-oriented programming. Provide examples to illustrate the differences.
+
+3. Create a Java class named Car with attributes such as make, model, and year. Include a method to display information about the car.
+
+4. Explain the concept of encapsulation in Java classes and provide an example.
+
+5. Instantiate an object of the Car class from the previous question and set values for its attributes. Display the information about the car using the method you created.
+
+6. Discuss the difference between a class and an object in Java, with examples.
+
+7. Create a Java class named Calculator with methods for basic arithmetic operations (addition, subtraction, multiplication, division). Demonstrate the usage of these methods.
+
+8. Explain the concept of method overloading in Java and provide an example.
+
+9. Create a class variable in the Car class to keep track of the total number of cars created. Use the static keyword for this purpose.
+
+10. Explain the usage of the this keyword in Java. Provide examples demonstrating its use in constructors and methods.
+
+11. Create a parameterized constructor for the Car class that initializes all the attributes. Demonstrate the usage of this constructor.
+
+12. Discuss the difference between a constructor and a method in Java. Provide examples to illustrate their usage.
+
+13. Create a Java class named Person with attributes name, age, and gender. Provide a default constructor and a parameterized constructor. Instantiate objects for two different people and display their information.
+
+14. Design a class named BankAccount with attributes accountNumber, accountHolder, and balance. Include methods for deposit, withdrawal, and displaying the balance. Ensure that the balance is encapsulated and cannot be accessed directly.
+
+15. Implement a method named calculateArea in a class Circle that calculates and returns the area of the circle. Demonstrate its usage by creating an object and calling the method.
+
+16. Create a class named MathOperations with a static method multiply that multiplies two numbers. Demonstrate the usage of this method without creating an object.
+
+17. Enhance the Person class from the first question by including a static variable to keep track of the total number of people created. Update the constructors to increment this variable. Display the total number of people at the end.
+
+18. Create a class Book with attributes title, author, and pages. Implement a parameterized constructor and a method to display information about the book. Use the this keyword to differentiate between instance variables and parameters.
+
+19. Overload the constructor of the Book class to provide default values for the attributes. Create two different objects using both constructors and display their information.
