@@ -1,0 +1,42 @@
+2. Differentiate between procedural programming and object-oriented programming. Provide examples to illustrate the differences.
+Procedural Programming is programming paradiagm where top down approch is 
+taken here the data and fuction are taken differently means it focuses on 
+procedures or the fuction where as in the OOPs it is a programing paradiagm 
+in which it focusses on the objects rather then data and method here data
+ and the method are encapsulated in a single unit called as classit uses the concept of
+ the encapsulation and abstraction inheritance polymorphism;
+ suppose we need to get the area of a rectangle
+ in C
+ #include<stdio.h>
+ float  calculateareaRectangle( float length,float breadth){
+    return legth*breadth
+ }
+
+ void main()
+ {
+    float length=2.5;
+    float bredth=3.5;
+    calculateareaRectangle(length,breadth);
+ }
+the same progrm if we write in OOPs in Java
+class Rectangle{
+    private float length;
+   private float bredth;
+   Rectangle(i,b)
+   {
+    length=l;
+    breadth=b;
+   }
+float calculateareaRectangle(){
+    return length*breadth;
+}
+
+    public static void main(string ars[])
+    {
+        Rectangle ob1=new Rectangle(2.5,3.5);
+        ob1.calculateareaRectangle();
+        
+    }
+}
+here we are seeing that how procedural and object orientd are working
+

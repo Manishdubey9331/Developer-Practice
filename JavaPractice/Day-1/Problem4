@@ -1,0 +1,7 @@
+4. Explain the concept of encapsulation in Java classes and provide an example.
+Encapsulation is one of the pillars of the OOPs concept in java it is 
+the mechanism of bundling the data and the mehod eithin a single unit 
+called as class it can be achieved by using different asscess
+ modifier  Public Private Proteced for the case of the Proteced modifier 
+ the properties and the behavior of the class having protected modifier can be achieved
+ within the same class or child class of that parent class only

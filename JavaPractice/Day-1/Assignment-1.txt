@@ -12,6 +12,7 @@
 
 7. Create a class variable in the Car class to keep track of the total number of cars created. Use the static keyword for this purpose.
 
+<<<<<<< Updated upstream
 8. Explain the usage of the this keyword in Java. Provide examples demonstrating its use in constructors and methods.
 
 9. Create a parameterized constructor for the Car class that initializes all the attributes. Demonstrate the usage of this constructor.
@@ -31,3 +32,44 @@
 16. Create a class Book with attributes title, author, and pages. Implement a parameterized constructor and a method to display information about the book. Use the this keyword to differentiate between instance variables and parameters.
 
 17. Overload the constructor of the Book class to provide default values for the attributes. Create two different objects using both constructors and display their information.
+=======
+8. Explain the usage of the this keyword in Java. Provide examples 
+demonstrating its use in constructors and methods.
+
+9. Create a parameterized constructor for the Car class that
+ initializes all the attributes. Demonstrate the usage of this constructor.
+
+10. Discuss the difference between a constructor and a method in Java. 
+Provide examples to illustrate their usage.
+
+11. Create a Java class named Person with attributes name, age, and gender. 
+Provide a default constructor and a parameterized constructor. Instantiate objects for two different people and display their information.
+
+12. Design a class named BankAccount with attributes
+ accountNumber, accountHolder, and balance. 
+ Include methods for deposit, withdrawal, and 
+ displaying the balance. 
+ Ensure that the balance is encapsulated and cannot be accessed directly.
+
+13. Implement a method named calculateArea in a class Circle 
+that calculates and returns the area of the circle.
+ Demonstrate its usage by creating an object and calling the method.
+
+14. Create a class named MathOperations with a static method multiply that 
+multiplies two numbers. Demonstrate the usage of this method 
+without creating an object.
+
+15. Enhance the Person class from the first question by including a 
+static variable to keep track of the total number of people created. 
+Update the constructors to increment this variable.
+ Display the total number of people at the end.
+
+16. Create a class Book with attributes title, author, and pages.
+ Implement a parameterized constructor and a method to display information
+  about the book. Use the this keyword to differentiate between 
+  instance variables and parameters.
+
+17. Overload the constructor of the Book class to provide default 
+values for the attributes. Create two different objects using 
+both constructors and display their information.
+>>>>>>> Stashed changes

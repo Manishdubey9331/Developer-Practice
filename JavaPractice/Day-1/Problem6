@@ -1,0 +1,11 @@
+6. Discuss the difference between a class and an object in Java, with examples.
+Object are the instances of a class Objects have attribues and so they
+occupy memory spaces objects have real life existence.
+classes are the blue print they do not have real life exxistence and 
+so they does not occupy memory
+class ABC{
+    psvm{
+        ABC obj= new ABC();
+    }
+}
+here ABC is a class whwre as obj is an object

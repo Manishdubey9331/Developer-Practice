@@ -1,0 +1,18 @@
+1. Explain the core principles of Object-Oriented Programming and how they are implemented in Java.
+
+OOPs :-Object Oriented Programming is programming paradiagm which revolves 
+around the objects which are the instamces of a classes.It helps
+in designing,developing and maintaining the software system. In java,
+with the help of all the four principles of OOPs concept we can achieved
+this all.
+Encapsulation:
+Encapsulation is the one of OOPs concept which helps in 
+bundling the data and the method that operates on that data within a single unit called as class.With the help of access modifiers Private Protected  and Public we can achieve encapsulation it help in code maintainig and code reusability, data hiding and abstraction can be achieved by encapsulation.
+Inheritance:
+Inheritance is one of the pillar of the OOPs concept in this all the properties of one class known as Parent class is inherited to the another class known as Child class It can be achieved by using EXTENDS key word it helps in code reusabitlity and polymorphism and also code optimization.
+java does not support multiple inheritance that is in java there can be only on parent class multiple inhesritance can be achieved by usinh interface
+Polmorphism:
+There are two different types of polymorphism in java  Run time polymorphusm known as method overrriding it is achived in different classes having same name and same parameters and compile time polymorphism known as method overloading  it occurs within the same class having same name but have different parameters
+Abstraction
+It is the way of making a complex system into simple ones by modefying the classes .Abstraction focuses in the objects that what they need to do rather than how they are doing it hides the unnecessary detail from the end user
+Abstraction can be achieved by abstract class and interface
